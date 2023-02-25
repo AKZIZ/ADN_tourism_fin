@@ -11,7 +11,7 @@ import plotly.express as px
 import geopandas as gpd
 
 import numpy as np
-import sklearn
+
 
 #Model Type
 from sklearn.model_selection import train_test_split
